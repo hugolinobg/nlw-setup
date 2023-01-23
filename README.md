@@ -1,6 +1,6 @@
 # NLW Setup
 
-![preview](./.GitHub/preview_1.png)
+![preview](./.GitHub/preview_01.png)
 
 > Trilha Explorer
 
