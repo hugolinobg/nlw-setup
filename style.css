@@ -107,6 +107,13 @@ input:checked {
   border: 2px solid #a78bfa;
 }
 
+footer {
+  text-align: center;
+  color: #fff;
+  bottom: 0;
+  padding: 16px 0;
+}
+
 @media (max-width: 570px) {
   button div {
     display: none;
